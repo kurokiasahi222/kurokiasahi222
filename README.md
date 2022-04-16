@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kurokiasahi222
 - 👀 I’m interested in the field of Data Science
-- 🌱 I’m currently learning Finance and Computer Science at University of Minnesota, Twins city
+- 🌱 I’m currently learning Finance and Computer Science at University of Minnesota, Twins Cities
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kurok011@umn.edu
 
