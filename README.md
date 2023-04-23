@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kurokiasahi222
-- 👀 I’m interested in the field of Data Science
+- 👋 Hi, I’m Asahi (Ash) Kuroki
 - 🌱 I’m currently learning Finance and Computer Science at University of Minnesota, Twins Cities
-- 💞️ I’m looking to collaborate on ...
+- - 👀 I’m interested in the field of Data Science and Software engineering
 - 📫 How to reach me ... kurok011@umn.edu
 
 <!---
