@@ -7,7 +7,7 @@
 - 🌱 I’m a software developer based in __Minneapolis!__
 - 👀 I have a strong interest in Software engineering and the Startup ecosystem
 - 💡 I'm currently learning LLM & RAG, and __Machine Learning__
-- 🇰🇷 Also learning Korean on Duolingo! Keeping streaks since __5/5/2024__! My current goal is 100 days! Add me as a friend! (username: Asahi-ash.k)
+- 🇰🇷 Also learning Korean on Duolingo! Keeping streaks since __5/5/2024__! My current goal is 200 days! Add me as a friend! (username: Asahi-ash.k)
 - 🕶️ Fun fact: I was born and raised in Japan, but I came to the U.S. on my own at the age of 15 to study abroad! 
 - 📫 How to reach me ... 
 Go to my <a href="https://asahikuroki.com/"><b>Website</b></a> or my <a href="https://www.linkedin.com/in/asahi-kuroki/"><b>Linkedin</b></a>
