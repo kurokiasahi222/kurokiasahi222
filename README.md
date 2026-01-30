@@ -4,7 +4,7 @@
 
 ### Full Stack Software Developer
 
-- 🌱 I’m a software developer based in __Fukuoka/Japan!__
+- 🌱 I’m a software developer based in __Tokyo/Japan!__
 - 👀 I have a strong interest in Software engineering and the Startup ecosystem
 - 💡 I'm currently learning LLM & RAG, and Machine Learning
 - 🕶️ Fun fact: I was born and raised in Japan, but I came to the U.S. on my own at the age of 15 to study abroad! 
